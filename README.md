@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, clone the project from ...Github:
+First, clone the project from Github:
 
 ```bash
 
@@ -13,6 +13,12 @@ Then run
 
 ```
 npm install
+```
+
+After successfully creating node packages you can run the project in the development environment using
+
+```
+npm run dev
 ```
 
 ````
