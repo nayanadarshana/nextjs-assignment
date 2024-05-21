@@ -15,17 +15,13 @@ git  clone  https://github.com/nayanadarshana/nextjs-assignment.git
 Then run
 
 ```
-
 npm install
-
 ```
 
 After successfully creating node packages you can run the project in your local development environment using
 
 ```
-
 npm run dev
-
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
