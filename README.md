@@ -2,11 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, clone the project from github:
+First, clone the project from ...Github:
 
 ```bash
 
-clone https://github.com/nayanadarshana/nextjs-assignment.git
+git clone https://github.com/nayanadarshana/nextjs-assignment.git
+```
+
+Then run
+
+```
+npm install
 npm run dev
 # or
 yarn dev
