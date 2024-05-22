@@ -1,9 +1,19 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Page() {
-  const [hide, setHide] = useState<boolean>(true);
+  const [hide, setHide] = useState<boolean>();
+
+  useEffect(() => {
+    const isMobile = window.innerWidth <= 768;
+    if (isMobile) {
+      setHide(true);
+    } else {
+      setHide(false);
+    }
+  }, []);
+
   const hideMenu = () => {
     setHide(hide ? false : true);
   };
