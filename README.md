@@ -30,4 +30,4 @@ You can check the calculator [http://localhost:3000/calculator](http://localhost
 
 If you change the URL to [http://localhost:3000/nav-bar](http://localhost:3000/nav-bar) you can see the nav bar design
 
-Navigate to [http://localhost:3000/question3](http://localhost:3000/question3) and you can go to the src->app->question3->page and you can see the question 3 solution. When you add values to the console.log, you can see the output from your terminal which running the application
+Navigate to [http://localhost:3000/question3](http://localhost:3000/question3) and you can go to the page directory and go to src->app->question3->page and you can see the question 3 solution. When you add values to the console.log which we have inside the page, you can see the output from your terminal which running the application
