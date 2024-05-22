@@ -127,7 +127,7 @@ body {
   }
   .aeon {
     border-bottom: 1px solid #5c5a5a; 
-    padding: 5px;         
+    padding: 10px;         
     text-decoration: none;
     width: 100%;
   }
@@ -151,6 +151,6 @@ body {
   }
 
   .other-menu {
-    margin-left: 5px;
+    margin: 5px 0px 10px 10px;
   }
 }
